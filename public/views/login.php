@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <head>
-    <link rel="stylesheet" type="text/css" href="../css/style.css">  <!-- przy php dodac tu public zamiast .. -->
+    <link rel="stylesheet" type="text/css" href="public/css/style.css">  <!-- przy php dodac tu public zamiast .. -->
     <title>LOGIN PAGE</title>
 </head>
 <body>
     <div class="container">
         <div class="logo">
-            <img id="im" src="../img/logo.svg" width="200" height="200">    <!-- przy php dodac tu public zamiast .. -->
+            <img id="im" src="public/img/logo.svg" width="200" height="200">
         </div>
         <div class="login-container">
             <form class="login" action="login" method="POST">
