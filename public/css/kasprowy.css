@@ -12,8 +12,8 @@ i.fas.fa-bars.extraClass{
     color: #561134;
 }
 
-.hamburger_icon{
-    font-size: 5em;
+.house_icon{
+    font-size: 5.43em;
     top: 18px;
     left: 1766px;
     position: absolute;
@@ -24,20 +24,20 @@ i.fas.fa-bars.extraClass{
     border-radius: 27px;    
 }
 
-.hamburger_icon>a>i.fas.fa-bars{
+.house_icon>a>i.fas.fa-bars{
     top: 5px;
     left: 14px;
     position: relative;
 }
 
-.hamburger_icon>a:active {
+.house_icon>a:active {
     color: #047373;
 }
 
-#ZKW{
+#this_slope{
     position: absolute;
     top: -13px;
-    left: 346px;
+    left: 218px;
     width: 1394px;
     height: 154px;
     text-align: center;
@@ -56,7 +56,7 @@ i.fas.fa-bars.extraClass{
     top: 28px;
     left: 228px;
     text-decoration: none;
-    font: normal normal bold 98px/73px Segoe UI;
+    font: normal normal bold 43px/73px Segoe UI;
     color: black;
     background: transparent;
     border: none;
@@ -178,7 +178,7 @@ i.fas.fa-bars.extraClass{
         background-repeat: repeat;
     }
 
-    .hamburger_icon{
+    .house_icon{
         font-size: 10em;
         top: 52px;
         left: 1178px;
@@ -187,9 +187,9 @@ i.fas.fa-bars.extraClass{
         border: 11px solid #32344e;
     }
     
-    #ZKW{
+    #this_slope{
         top: 291px;
-        left: 218px;
+        left: 84px;
         width: 1204px;
     }
     

@@ -66,8 +66,8 @@ input{
     border: 5px solid #050F0F;
 }
 
-.hamburger_icon2{
-    font-size: 5em;
+.house_icon2{
+    font-size: 5.43em;
     color:#561134;
     top: 42px;
     left: 1747px;
@@ -79,13 +79,13 @@ input{
     border-radius: 27px;
 }
 
-.hamburger_icon2>a>i.fas.fa-bars{
+.house_icon2>a>i.fas.fa-bars{
     top: 5px;
     left: 14px;
     position: relative;
 }
 
-.hamburger_icon2>a:active {
+.house_icon2>a:active {
     color: #047373;
 }
 
@@ -142,6 +142,17 @@ section {
     color: white;
 }
 
+.slope_id{
+    color: white;
+    font: normal normal bold 45px/73px Segoe UI;
+}
+
+.get_here{
+    color: white;
+    font: normal normal bold 45px/1px Segoe UI;
+    text-decoration: auto;
+}
+
 @media only screen and (max-device-width: 1440px) {
 
     .header1{
@@ -161,14 +172,14 @@ section {
         font-size: 150px;
     }
 
-    .hamburger_icon2>a>i.fas.fa-bars{
+    .house_icon2>a>i.fas.fa-bars{
 
         top: 14px;
         left: 22px;
 
     }
 
-    .hamburger_icon2{
+    .house_icon2{
 
         top: 335px;
         left: 1182px;

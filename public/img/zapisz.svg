@@ -3,5 +3,5 @@
     <rect width="481" height="50" stroke="none"/>
     <rect x="1.5" y="1.5" width="478" height="47" fill="none"/>
   </g>
-  <text id="Cennik" transform="translate(238 37)" fill="#073533" stroke="#073533" stroke-width="1" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-44.985" y="0">Cennik</tspan></text>
+  <text id="Zapisz" transform="translate(238 37)" fill="#073533" stroke="#073533" stroke-width="1" font-size="30" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-44.985" y="0">Zapisz</tspan></text>
 </svg>

@@ -13,6 +13,7 @@ Router::get('kasprowy', 'DefaultController');
 Router::get('profil', 'DefaultController');
 Router::get('szukaj', 'SlopeController');
 Router::get('add', 'DefaultController');
+Router::get('stok', 'DefaultController');
 
 Router::post('logout', 'SecurityController');
 Router::post('register', 'SecurityController');

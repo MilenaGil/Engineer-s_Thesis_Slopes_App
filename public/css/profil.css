@@ -55,8 +55,8 @@ i.fas.fa-bars.extraClass{
     color: #561134;
 }
 
-.hamburger_icon{
-    font-size: 5em;
+.house_icon{
+    font-size: 5.43em;
     top: 64px;
     left: 1345px;
     position: absolute;
@@ -67,13 +67,13 @@ i.fas.fa-bars.extraClass{
     border-radius: 27px;    
 }
 
-.hamburger_icon>a>i.fas.fa-bars{
+.house_icon>a>i.fas.fa-bars{
     top: 5px;
     left: 14px;
     position: relative;
 }
 
-.hamburger_icon>a:active {
+.house_icon>a:active {
     color: #047373;
 }
 
@@ -231,7 +231,7 @@ button{
         left: 26px;
     }
     
-    .hamburger_icon{
+    .house_icon{
         font-size: 10em;
         top: 77px;
         left: 1196px;

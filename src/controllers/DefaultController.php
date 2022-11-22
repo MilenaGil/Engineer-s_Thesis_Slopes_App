@@ -62,6 +62,14 @@ class DefaultController extends AppController{
             $this->index();
     }
 
+    public function stok()
+    {
+        if ($this->isLog())
+            $this->render('stok');
+        else
+            $this->index();
+    }
+
     public function profil()
     {
         if ($this->isLog())

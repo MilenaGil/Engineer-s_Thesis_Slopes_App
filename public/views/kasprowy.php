@@ -8,17 +8,17 @@
     <div class="container5">
         <header>
             <div class="logo5">
-                <a href="/menu">
+                <a>
                     <img id="o1" src="public/img/logo3.svg">
                 </a>
             </div>
-            <div class="hamburger_icon">
-                <a href="#" class="burger_icon">
-                    <i  class="fas fa-bars extraClass" ></i>
+            <div class="house_icon">
+                <a href="/menu" class="Icon_of_house">
+                    <i  class="fa-sharp fa-solid fa-house" ></i>
                 </a>
             </div>
             <div>
-                <i id="ZKW">Zakopane Kasprowy Wierch</i>
+                <i id="this_slope">Zakopane Kasprowy Wierch</i>
             </div>
             <div>
                 <img id="un1" src="public/img/uncheck.svg">

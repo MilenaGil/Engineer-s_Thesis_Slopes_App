@@ -11,7 +11,7 @@
     <header>
         <div class="header1">
             <div class="logo2">
-                <a href="/menu">
+                <a>
                     <img id="im2"src="public/img/logo2.svg">
                 </a>
             </div>
@@ -24,9 +24,9 @@
         </div>
     </header>
     <div class="buttons">
-        <div class="hamburger_icon2">
-            <a href="#" class="burger_icon">
-                <i  class="fas fa-bars extraClass" ></i>
+        <div class="house_icon2">
+            <a href="/menu" class="Icon_of_house">
+                <i  class="fa-sharp fa-solid fa-house" ></i>
             </a>
         </div>
     </div>
@@ -34,8 +34,8 @@
         <?php foreach($slopes as $slope): ?>
             <div>
                 <img src="public/uploads/<?= $slope->getImage(); ?>">
-                <div>
-                    <h2><?= $slope->getTitle(); ?></h2>
+                <div >
+                    <a class="slope_id" href="/stok"><?= $slope->getTitle(); ?></a>
                     <p><?= $slope->getDescription(); ?></p>
                 </div>
             </div>
@@ -49,6 +49,7 @@
         <img src="">
         <div>
             <h2>title</h2>
+            <a class="get_here" href="/stok">-></a>
             <p>description</p>
         </div>
     </div>

@@ -19,16 +19,6 @@
             </div>  
         </header>
         <section class="buttons">
-            <div class="hamburger_icon">
-                <a href="#" class="burger_icon">
-                    <i class="fas fa-bars extraClass" ></i>
-                </a>
-            </div>
-            <form class="log_out" action="logout" method="POST">
-                <div class="log_out_icon">
-                    <button class="fas fa-sign-out-alt extraClass" ></button>
-                </div>
-            </form>
             <div class="buttons1">
 
                 <form class="mls" action="lista" method="POST">
@@ -45,14 +35,14 @@
 
                 <form>
                     <button class="b3">
-                        <img id="img3" src="public/img/gora3.svg">
+                        <img id="img3" src="public/img/gora4.svg">
                     </button>
                 </form>
 
-                <form>
+                <form class="log_out" action="logout" method="POST">
                     <button class="b4">
-                        <img id="img4" src="public/img/gora4.svg">
-                    </button>2
+                        <img id="img4" src="public/img/gora3.svg">
+                    </button>
                 </form>
             </div>
         </section>

@@ -7,7 +7,7 @@
 <body>
     <div class="container3">
         <div class="logo3">
-            <a href="/menu">
+            <a>
                 <img id="l3" src="public/img/logo3.svg">
             </a>
         </div>
@@ -16,9 +16,9 @@
                 <input name="rejon" type="text" placeholder="Kasprowy Wierch">
             </div>
         </header>
-        <div class="hamburger_icon">
-            <a href="#" class="burger_icon">
-                <i  class="fas fa-bars extraClass" ></i>
+        <div class="house_icon">
+            <a href="/menu" class="Icon_of_house">
+                <i  class="fa-sharp fa-solid fa-house" ></i>
             </a>
         </div>
         <div>

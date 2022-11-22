@@ -9,13 +9,13 @@
         <header>
             <div class="logo4">
                 <i>nick: Milena_G</i>
-                <a href="/menu">
+                <a>
                     <img id="im4" src="public/img/logo2.svg">
                 </a>
             </div>
-            <div class="hamburger_icon">
-                <a href="#" class="burger_icon">
-                    <i  class="fas fa-bars extraClass" ></i>
+            <div class="house_icon">
+                <a href="/menu" class="Icon_of_house">
+                    <i class="fa-sharp fa-solid fa-house"></i>
                 </a>
             </div>
             <div>

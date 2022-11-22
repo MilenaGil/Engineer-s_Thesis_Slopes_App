@@ -21,8 +21,8 @@ body {
     border: 5px solid #050F0F;
 }
 
-.hamburger_icon{
-    font-size: 5em;
+.house_icon{
+    font-size: 5.43em;
     top: 63px;
     left: 1789px;
     position: absolute;
@@ -33,14 +33,14 @@ body {
     border-radius: 27px;    
 }
 
-.hamburger_icon>a>i.fas.fa-bars{
+.house_icon>a>i.fas.fa-bars{
     top: 5px;
     left: 14px;
     color:#561134;
     position: relative;
 }
 
-.hamburger_icon>a:active {
+.house_icon>a:active {
     color: #025d5d;
 }
 
@@ -151,8 +151,8 @@ body {
     border: 5px solid #050F0F;
 }
 
-.hamburger_icon{
-    font-size: 5em;
+.house_icon{
+    font-size: 5.43em;
     top: 63px;
     left: 1789px;
     position: absolute;
@@ -163,14 +163,14 @@ body {
     border-radius: 27px;    
 }
 
-.hamburger_icon>a>i.fas.fa-bars{
+.house_icon>a>i.fas.fa-bars{
     top: 5px;
     left: 14px;
     color:#561134;
     position: relative;
 }
 
-.hamburger_icon>a:active {
+.house_icon>a:active {
     color: #025d5d;
 }
 
@@ -217,7 +217,7 @@ input{
         width: 973px;
     }
     
-    .hamburger_icon{
+    .house_icon{
         left: 1266px;
     }
 
