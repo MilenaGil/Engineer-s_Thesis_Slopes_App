@@ -22,22 +22,23 @@
         </div>
     </header>
     <main>
-        <div class="buttons5">
-            <button>
-                <img id="bu1" src="public/img/zapisz.svg">
-            </button>
+        <div>
+            <form class="zapis" action="zapis" method="POST">
+                <button class="b1">
+                    <img id="bu1" src="public/img/zapisz.svg">
+                </button>
+            </form>
         </div>
         <div>
             <img id="o2" src="public/img/kas1.svg">
         </div>
         <div class="notka">
-            <img id="n1" src="public/img/notatka.svg">
-            <i id="info">
-                info
+   <!--         <i id="info">
+               info
             </i>
             <i id="ceny">
                 ceny
-            </i>
+            </i>    -->
             <i id="open">
                 otwarcie
             </i>

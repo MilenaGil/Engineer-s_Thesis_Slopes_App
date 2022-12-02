@@ -49,7 +49,10 @@
         <img src="">
         <div>
             <h2>title</h2>
-            <a class="get_here" href="/stok">-></a>
+            <?php foreach($slopes as $slope): ?>
+                if (<?= $slope->getTitle(); ?> == title)
+                <a class="get_here" href="/stok">-></a>
+            <?php endforeach; ?>
             <p>description</p>
         </div>
     </div>
